@@ -304,3 +304,4 @@ Trusted by **Rolls-Royce · Bentley · Aston Martin · Porsche** to deliver high
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0a0a0f&height=130&section=footer&text=Building%20technology%20that%20bears%20the%20risks%20humans%20shouldn%27t.&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
+<!-- update-2024-07-31-0 -->
