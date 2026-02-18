@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1b2a,70:1b2838,100:e94560&height=220&section=header&text=Aniruddha%20Narayan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Aminuteman%20Technologies&descAlignY=57&descSize=20&descColor=e94560" />
+# Aniruddha Narayan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+AI-driven+UAV+%26+Autonomous+Systems+%F0%9F%9B%A1%EF%B8%8F;Protecting+Soldiers+%7C+Strengthening+Defense+Sovereignty;Physical+AI+%7C+Avionics+%7C+Cyber+Defense+%7C+7%C3%97+Hackathon+Winner)](https://github.com/aniruddhanarayan)
+Founder and CEO, Aminuteman Technologies
+
+Location: Pune, India
+
+Hackathons: 7x Winner | Grant: US Innovation
 
 <br/>
-
-Role: Founder and CEO
-Company: Aminuteman Technologies
-Location: Pune, India
-Hackathons: 7x Winner
-Grant: US Innovation
-
-<br/><br/>
-
-
 
 </div>
 
