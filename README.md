@@ -35,3 +35,66 @@ At ![Age 18](https://img.shields.io/badge/age%2018-8b1a1a?style=flat-square&labe
 Our mission is to establish ![AI Brain Sovereignty](https://img.shields.io/badge/AI%20Brain%20Sovereignty-3a3a48?style=flat-square&labelColor=1a1a24) — building systems where technology bears the highest risk, so more defenders come home safely.
 
 ---
+
+## <img src="https://img.shields.io/badge/◈-EXPERIENCE-2c4a6e?style=flat-square" height="22"/> Experience
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Chief Executive Officer
+**[Aminuteman Technologies](https://github.com/aniruddhanarayan)**
+`Dec 2023 – Present` · Pune, Maharashtra
+
+Leading innovation across ![Defense AI](https://img.shields.io/badge/Defense%20AI-2c4a6e?style=flat-square&labelColor=0a1520), ![Robotics](https://img.shields.io/badge/Robotics-2c4a6e?style=flat-square&labelColor=0a1520), ![Aerospace](https://img.shields.io/badge/Aerospace-2c4a6e?style=flat-square&labelColor=0a1520) and ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3a3a48?style=flat-square&labelColor=1a1a24) — developing next-generation drones and autonomous systems that shape the future of national security.
+
+- Leading a ![22-member engineering team](https://img.shields.io/badge/22--member%20team-8b1a1a?style=flat-square&labelColor=2a0a0a)
+- ![US Innovation Grant](https://img.shields.io/badge/US%20Innovation%20Grant-4a2f1a?style=flat-square&labelColor=2a1808) recipient
+- ![7× Hackathon Champion](https://img.shields.io/badge/7×%20Hackathon%20Champion-8b1a1a?style=flat-square&labelColor=2a0a0a)
+- Enterprise AI for ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f1a?style=flat-square&labelColor=2a1808) ![Bentley](https://img.shields.io/badge/Bentley-4a2f1a?style=flat-square&labelColor=2a1808) ![Aston Martin](https://img.shields.io/badge/Aston%20Martin-4a2f1a?style=flat-square&labelColor=2a1808) ![Porsche](https://img.shields.io/badge/Porsche-4a2f1a?style=flat-square&labelColor=2a1808)
+
+</td>
+<td width="35%" valign="top" align="center">
+
+![Defense](https://img.shields.io/badge/DEFENSE%20TECH-8b1a1a?style=for-the-badge&labelColor=2a0a0a)
+
+![LOI](https://img.shields.io/badge/Indian%20Armed%20Forces-Letter%20of%20Intent-2c4a6e?style=flat-square&labelColor=0a1520)
+
+![NC Trials](https://img.shields.io/badge/NC%20Trials-Qualified-3a3a48?style=flat-square&labelColor=1a1a24)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Analyst — Dataisgood
+`May 2024 – Apr 2025` · Pune
+
+Mastering principles of ![extracting insights from complex datasets](https://img.shields.io/badge/data%20extraction%20%26%20insight-2c4a6e?style=flat-square&labelColor=0a1520) — building data pipelines and analytical frameworks for real-world decision-making.
+
+</td>
+<td width="50%" valign="top">
+
+### Intern — SETV Global
+`Nov 2024 – Mar 2025` · Hyderabad
+
+Hands-on experience in rapidly evolving AI — applying theoretical knowledge to ![production-grade challenges](https://img.shields.io/badge/production--grade%20challenges-3a3a48?style=flat-square&labelColor=1a1a24) in autonomous systems.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Student — Coding Ninjas
+`Jan 2023 – Apr 2024` · Maharashtra
+
+Intensive multi-disciplinary learning: `Python` · `Data Structures & Algorithms` · `Machine Learning` · `Data Analytics` — mastering advanced problem-solving and data-driven methodologies.
+
+</td>
+</tr>
+</table>
+
+---
