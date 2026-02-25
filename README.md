@@ -98,3 +98,64 @@ Intensive multi-disciplinary learning: `Python` · `Data Structures & Algorithms
 </table>
 
 ---
+
+## <img src="https://img.shields.io/badge/◈-KEY%20PROJECTS-8b1a1a?style=flat-square" height="22"/> Key Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Valley AI
+![Physical AI OS](https://img.shields.io/badge/World's%20First-Physical%20AI%20OS-8b1a1a?style=flat-square&labelColor=2a0a0a)
+
+![Unified defense intelligence platform](https://img.shields.io/badge/Unified%20Defense%20Intelligence%20Platform-2c4a6e?style=flat-square&labelColor=0a1520) connecting command centers to last-mile soldiers for real-time, autonomous mission control in ![GPS-denied environments](https://img.shields.io/badge/GPS--denied%20environments-3a3a48?style=flat-square&labelColor=1a1a24).
+
+```
+Command Center ──▶ Valley AI Core ──▶ Field Soldiers
+       │                 │                    │
+       │         Real-time Mesh               │
+       │        Autonomous Edge               │
+       └──────── Decision Engine ─────────────┘
+
+★ Real-time intelligence feeds
+★ Autonomous mission execution at the edge  
+★ Encrypted C2 communication layers
+```
+
+![AI](https://img.shields.io/badge/AI-1a1a2a?style=flat-square) ![Real-time Systems](https://img.shields.io/badge/Real--time%20Systems-1a1a2a?style=flat-square) ![Mission Control](https://img.shields.io/badge/Mission%20Control-1a1a2a?style=flat-square) ![C&C](https://img.shields.io/badge/C%26C-1a1a2a?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Ankosha A Drones
+![Fire-and-forget](https://img.shields.io/badge/Fire--and--forget-8b1a1a?style=flat-square&labelColor=2a0a0a)
+
+Long-range ![kamikaze drone](https://img.shields.io/badge/kamikaze%20drone-4a2f1a?style=flat-square&labelColor=2a1808) built for endurance and precision — executing high-stakes missions with ![minimal human intervention](https://img.shields.io/badge/minimal%20human%20intervention-3a3a48?style=flat-square&labelColor=1a1a24).
+
+```
+Launch ──▶ Autonomous Nav ──▶ Target Lock ──▶ Strike
+
+★ Long-range fire-and-forget capability
+★ AI-powered precision target acquisition
+★ Designed for no-recovery missions
+★ Minimal human-in-loop
+```
+
+![UAV](https://img.shields.io/badge/UAV-1a1a2a?style=flat-square) ![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-1a1a2a?style=flat-square) ![Defense Tech](https://img.shields.io/badge/Defense%20Tech-1a1a2a?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Enterprise AI Solutions
+
+High-stakes AI for ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f1a?style=flat-square&labelColor=2a1808) · ![Bentley](https://img.shields.io/badge/Bentley-4a2f1a?style=flat-square&labelColor=2a1808) · ![Aston Martin](https://img.shields.io/badge/Aston%20Martin-4a2f1a?style=flat-square&labelColor=2a1808) · ![Porsche](https://img.shields.io/badge/Porsche-4a2f1a?style=flat-square&labelColor=2a1808) — funding defense research and development through ![commercial innovation](https://img.shields.io/badge/commercial%20innovation-2c4a6e?style=flat-square&labelColor=0a1520).
+
+![ML](https://img.shields.io/badge/ML-1a1a2a?style=flat-square) ![Enterprise AI](https://img.shields.io/badge/Enterprise%20AI-1a1a2a?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1a1a2a?style=flat-square) ![Production Systems](https://img.shields.io/badge/Production%20Systems-1a1a2a?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
