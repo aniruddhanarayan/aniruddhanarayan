@@ -159,3 +159,25 @@ High-stakes AI for ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f
 </table>
 
 ---
+
+## <img src="https://img.shields.io/badge/◈-SKILLS%20%26%20STACK-3a3a48?style=flat-square" height="22"/> Skills & Tech Stack
+
+### Core Expertise
+![Physical AI](https://img.shields.io/badge/Physical%20AI-2c4a6e?style=flat-square&labelColor=0a1520)
+![Avionics](https://img.shields.io/badge/Avionics-2c4a6e?style=flat-square&labelColor=0a1520)
+![Cyber Defense](https://img.shields.io/badge/Cyber%20Defense-2c4a6e?style=flat-square&labelColor=0a1520)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-8b1a1a?style=flat-square&labelColor=2a0a0a)
+![UAV Development](https://img.shields.io/badge/UAV%20Development-8b1a1a?style=flat-square&labelColor=2a0a0a)
+
+### Technical Stack
+![Python](https://img.shields.io/badge/Python-3a3a48?style=flat-square&logo=python&logoColor=white&labelColor=1a1a24)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3a3a48?style=flat-square&labelColor=1a1a24)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3a3a48?style=flat-square&labelColor=1a1a24)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3a3a48?style=flat-square&labelColor=1a1a24)
+![Robotics](https://img.shields.io/badge/Robotics-3a3a48?style=flat-square&labelColor=1a1a24)
+![Aerospace Engineering](https://img.shields.io/badge/Aerospace%20Engineering-3a3a48?style=flat-square&labelColor=1a1a24)
+![Defense Intelligence](https://img.shields.io/badge/Defense%20Intelligence-3a3a48?style=flat-square&labelColor=1a1a24)
+![Mission Control](https://img.shields.io/badge/Mission%20Control-3a3a48?style=flat-square&labelColor=1a1a24)
+![Drone Engineering](https://img.shields.io/badge/Drone%20Engineering-3a3a48?style=flat-square&labelColor=1a1a24)
+
+---
