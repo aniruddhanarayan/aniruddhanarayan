@@ -181,3 +181,49 @@ High-stakes AI for ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f
 ![Drone Engineering](https://img.shields.io/badge/Drone%20Engineering-3a3a48?style=flat-square&labelColor=1a1a24)
 
 ---
+
+## <img src="https://img.shields.io/badge/◈-ACHIEVEMENTS-4a2f1a?style=flat-square" height="22"/> Achievements
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### US Innovation Grant
+Awarded for innovative defense technology solutions pushing the boundaries of ![autonomous warfare systems](https://img.shields.io/badge/autonomous%20warfare%20systems-3a3a48?style=flat-square&labelColor=1a1a24).
+
+</td>
+<td align="center" width="33%">
+
+### 12× Hackathon Winner
+Seven consecutive victories — demonstrating consistent excellence in ![rapid innovation](https://img.shields.io/badge/rapid%20innovation-2c4a6e?style=flat-square&labelColor=0a1520) and defense-technology problem solving.
+
+</td>
+<td align="center" width="33%">
+
+### Enterprise Partnerships
+Trusted by ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f1a?style=flat-square&labelColor=2a1808) · ![Bentley](https://img.shields.io/badge/Bentley-4a2f1a?style=flat-square&labelColor=2a1808) · ![Aston Martin](https://img.shields.io/badge/Aston%20Martin-4a2f1a?style=flat-square&labelColor=2a1808) · ![Porsche](https://img.shields.io/badge/Porsche-4a2f1a?style=flat-square&labelColor=2a1808) to deliver high-stakes enterprise AI solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://img.shields.io/badge/◈-EDUCATION-4a2f1a?style=flat-square" height="22"/> Education
+
+| Degree | Institution | Period |
+|:---|:---|:---:|
+| **Bachelor of Engineering — Computer Science** | ![DY Patil](https://img.shields.io/badge/Dr.%20D.Y.%20Patil%20Institute%20of%20Engineering%2C%20Management%20%26%20Research-4a2f1a?style=flat-square&labelColor=2a1808) · Pune, Maharashtra | `Jul 2022 – Jan 2026` |
+
+---
+
+## <img src="https://img.shields.io/badge/◈-LANGUAGES-2c4a6e?style=flat-square" height="22"/> Languages
+
+| Language | Proficiency | Level |
+|:---|:---|:---:|
+| **English** | `█████` | Full Professional |
+| **Hindi** | `█████` | Native |
+| **Marathi** | `████░` | Professional |
+| **Spanish** | `██░░░` | Elementary |
+
+---
