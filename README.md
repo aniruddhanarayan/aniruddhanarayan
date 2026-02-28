@@ -227,3 +227,23 @@ Trusted by ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f1a?style
 | **Spanish** | `██░░░` | Elementary |
 
 ---
+
+## <img src="https://img.shields.io/badge/◈-CONNECT-3a3a48?style=flat-square" height="22"/> Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-aniruddhanarayan36%40gmail.com-8b1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a0a)](mailto:aniruddhanarayan36@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniruddha%20Narayan-2c4a6e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1520)](https://linkedin.com/in/aniruddha-narayan-8b06a1257)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-aniruddhanarayan-3a3a48?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a24)](https://github.com/aniruddhanarayan)
+
+<br/>
+
+*Interested in defense technology, AI systems, or potential collaboration? Feel free to reach out.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b1a1a&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
