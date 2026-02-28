@@ -8,7 +8,7 @@
 &nbsp;
 ![Location](https://img.shields.io/badge/Pune-India-2c4a6e?style=flat-square&labelColor=1a1a1a)
 &nbsp;
-![Hackathons](https://img.shields.io/badge/Hackathons-7×%20Winner-4a3018?style=flat-square&labelColor=1a1a1a)
+![Hackathons](https://img.shields.io/badge/Hackathons-12×%20Winner-4a3018?style=flat-square&labelColor=1a1a1a)
 &nbsp;
 ![Grant](https://img.shields.io/badge/Grant-US%20Innovation-3a3a48?style=flat-square&labelColor=1a1a1a)
 
@@ -50,7 +50,7 @@ Leading innovation across ![Defense AI](https://img.shields.io/badge/Defense%20A
 
 - Leading a ![22-member engineering team](https://img.shields.io/badge/22--member%20team-8b1a1a?style=flat-square&labelColor=2a0a0a)
 - ![US Innovation Grant](https://img.shields.io/badge/US%20Innovation%20Grant-4a2f1a?style=flat-square&labelColor=2a1808) recipient
-- ![7× Hackathon Champion](https://img.shields.io/badge/7×%20Hackathon%20Champion-8b1a1a?style=flat-square&labelColor=2a0a0a)
+- ![12× Hackathon Champion](https://img.shields.io/badge/7×%20Hackathon%20Champion-8b1a1a?style=flat-square&labelColor=2a0a0a)
 - Enterprise AI for ![Rolls-Royce](https://img.shields.io/badge/Rolls--Royce-4a2f1a?style=flat-square&labelColor=2a1808) ![Bentley](https://img.shields.io/badge/Bentley-4a2f1a?style=flat-square&labelColor=2a1808) ![Aston Martin](https://img.shields.io/badge/Aston%20Martin-4a2f1a?style=flat-square&labelColor=2a1808) ![Porsche](https://img.shields.io/badge/Porsche-4a2f1a?style=flat-square&labelColor=2a1808)
 
 </td>
